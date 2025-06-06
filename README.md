@@ -19,14 +19,5 @@
   </tr>
 </table>
 
-<!-- GitHub Stats and Languages side-by-side -->
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/?username=trashz403&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trashz403&langs_count=5&theme=tokyonight" alt="Language Stats" />
-    </td>
-  </tr>
-</table>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=trashz403&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=trashz403&langs_count=5&theme=tokyonight)]()
