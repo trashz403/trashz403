@@ -4,7 +4,7 @@
 </p>
 
 <!-- TryHackMe and WiGLE side-by-side -->
-<table>
+<table border="0">
   <tr>
     <td>
       <a href="https://tryhackme.com/p/TRASHZ403" target="_blank">
@@ -20,7 +20,7 @@
 </table>
 
 <!-- GitHub Stats and Languages side-by-side -->
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/?username=trashz403&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats" />
